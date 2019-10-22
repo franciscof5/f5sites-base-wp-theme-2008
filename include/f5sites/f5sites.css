@@ -1,0 +1,18 @@
+/*
+Criado por Francisco Matelli,
+Configura automaticamente algumas coisas nos temas.
+
+*/
+/* 1.4.2 Estrutura - Footer > Assinatura */
+div#footer-f5sites {
+}
+div#footer-f5sites {
+	width:100px;
+	height:40px;
+	background:url(f5sites-logo-100x40-internet-cinza.png) no-repeat;
+}
+div#footer-f5sites:hover {background:url(f5sites-logo-100x40-internet.png) no-repeat;}
+
+/* 2.4.2 Design - Footer > Assinatura */
+div#footer-f5sites a {}
+div#footer-f5sites a:hover{}
